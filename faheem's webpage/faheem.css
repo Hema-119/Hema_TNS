@@ -1,0 +1,22 @@
+h1{
+    color: brown;
+    size: 30px;
+
+}
+p{
+    color: maroon;
+    size: 10px;
+}
+a{
+    color: black;
+    text-underline-offset: ;
+}
+a:hover{
+    cursor: pointer;
+    color: darkviolet;
+    background-color: black
+        
+}
+body{
+    background-color:;
+}
